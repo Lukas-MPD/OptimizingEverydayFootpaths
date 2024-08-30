@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OptimizingEverydayFootpaths</string>
+    <string name="start_location_updates">Start Location Updates</string>
+    <string name="stop_location_updates">Stop Location Updates</string>
+    <string name="all_data_deleted">All data deleted</string>
+    <string name="OptimizingEverydayFootpaths">OpFoot</string>
+    <string name="segment_path">Analyze</string>
+    <string name="fetch_routes">Fetch Routes</string>
+    <string name="delete_locations">Delete Locations</string>
+    <string name="opt_ev_footp">Optimizing Everyday Footpaths</string>
+</resources>
